@@ -6,7 +6,7 @@
 
 <p align=center>
     <a href="https://github.com/h30306/NLP">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h3036&repo=NLP&theme=vue-dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h30306&repo=NLP&theme=vue-dark" />
     </a>
     <a href="https://github.com/chonyy/ML-auto-baseball-pitching-overlay">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chonyy&repo=ML-auto-baseball-pitching-overlay&theme=vue-dark" />
