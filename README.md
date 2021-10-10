@@ -2,7 +2,16 @@
 [![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark)](https://github.com/h30306/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
+## 👨‍💻 Working on
 
+<p align=center>
+    <a href="https://github.com/h30306/NLP">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h3036&repo=NLP&theme=vue-dark" />
+    </a>
+    <a href="https://github.com/chonyy/ML-auto-baseball-pitching-overlay">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chonyy&repo=ML-auto-baseball-pitching-overlay&theme=vue-dark" />
+    </a>
+</p>
 ### Hi there 👋
 
 <!--
