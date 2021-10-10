@@ -1,6 +1,6 @@
 
-[![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=h30306)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=h30306)](https://github.com/h30306/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact)](https://github.com/h30306/github-readme-stats)
 
 
 ### Hi there 👋
