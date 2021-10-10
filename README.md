@@ -1,6 +1,8 @@
 
-[![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark)](https://github.com/h30306/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<p align=center>
+    [![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark)](https://github.com/h30306/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ## 👨‍💻 Working on
 
