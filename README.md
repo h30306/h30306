@@ -1,10 +1,10 @@
 
 <p align=center>
     <a href="https://github.com/h30306">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark&custom_title=Howard's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark&custom_title=Howard's GitHub stats" />
     </a>
     <a href="https://github.com/h30306">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html" />
     </a>
 </p>
 
