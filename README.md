@@ -1,5 +1,5 @@
 
-<p align=center>
+<p>
     <a href="https://github.com/h30306">
       <img src="https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark&custom_title=Howard's GitHub stats" />
     </a>
