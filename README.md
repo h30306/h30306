@@ -14,8 +14,8 @@
     <a href="https://github.com/h30306/Learning-Notes">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h30306&repo=Learning-Notes&theme=vue-dark" />
     </a>
-    <a href="https://github.com/h30306/Recommand_Movie_by_description_and_category">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h30306&repo=Recommand_Movie_by_description_and_category&theme=vue-dark" />
+    <a href="https://github.com/h30306/Crawler">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=h30306&repo=Crawler&theme=vue-dark" />
     </a>
 </p>
 
