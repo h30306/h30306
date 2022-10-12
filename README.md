@@ -1,6 +1,6 @@
 
 <p align=center>
-    <a href="https://github.com/h30306">
+    <a>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html" />
     </a>
     <a href="https://github.com/h30306">
