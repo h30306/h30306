@@ -1,10 +1,10 @@
 
 <p align=center>
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=vue-dark&hide=html"/>
+    <a href="https://github.com/h30306">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=h30306&show_icons=true&theme=radical&include_all_commits=true&card_width=250" />
     </a>
-    <a>
-      <img src="https://github-readme-stats.vercel.app/api?username=h30306&theme=vue-dark&custom_title=Howard's GitHub stats"/>
+    <a href="https://github.com/h30306">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=radical&card_width=250"/> 
     </a>
 </p>
 
