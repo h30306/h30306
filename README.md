@@ -19,7 +19,7 @@
         
 ### [**Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
 
-* Jheng-Long Wu, **Wei-Yi C** Chung<br>
+* Jheng-Long Wu, **Wei-Yi Chung** <br>
 * Applied Intelligence, 2022
 * [Paper](https://link.springer.com/article/10.1007/s10489-022-03384-9)
 
