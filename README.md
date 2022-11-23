@@ -15,14 +15,14 @@
 
 * Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
 * In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)
-[Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
+* [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
 <br>
         
-### [**Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
+### [**Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
 
 * Jheng-Long Wu, Wei-Yi Chung<br>
 * Applied Intelligence, 2022
-[Paper](https://link.springer.com/article/10.1007/s10489-022-03384-9)
+* [Paper](https://link.springer.com/article/10.1007/s10489-022-03384-9)
 <br>
     
     
