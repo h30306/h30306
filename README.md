@@ -13,7 +13,7 @@
 
 ### [**A Dynamic Embedding Method for Passenger Flow Estimation**](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) <br>
 
-* Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
+* **Wei-Yi Chung**, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
 * In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)
 * [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
         
