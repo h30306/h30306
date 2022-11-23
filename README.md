@@ -13,16 +13,16 @@
 
 ### [**A Dynamic Embedding Method for Passenger Flow Estimation**](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) <br>
 
-* Wei-Yi Chung; Yen-Nan Ho; Yu-Hsuan Wu; Jheng-Long Wu <br>
+* Wei-Yi Chung, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
 * In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)
-[Paper]([https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/slide.pdf](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)) 
+[Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
 <br>
         
-### [**Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction**] <br>
+### [**Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
 
-* Wei-Yi Chung; Yen-Nan Ho; Yu-Hsuan Wu; Jheng-Long Wu <br>
-* In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)
-[full-text]([https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/%E7%B5%90%E5%90%88%E6%83%85%E6%84%9F%E8%A9%9E%E8%88%87%E9%9A%8E%E5%B1%A4%E5%BC%8F%E9%97%9C%E6%B3%A8%E7%B6%B2%E8%B7%AF.pdf](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation)) | [Paper]([https://github.com/aaron1aaron2/aaron1aaron2/blob/main/TCSE_2020/slide.pdf](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)) 
+* Jheng-Long Wu, Wei-Yi Chung<br>
+* Applied Intelligence, 2022
+[Paper](https://link.springer.com/article/10.1007/s10489-022-03384-9)
 <br>
     
     
