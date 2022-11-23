@@ -22,7 +22,13 @@
 * Jheng-Long Wu, Wei-Yi Chung<br>
 * Applied Intelligence, 2022
 * [Paper](https://link.springer.com/article/10.1007/s10489-022-03384-9)
-<br>
+
+### [**A Dimensional Valence-Arousal-Irony Dataset for Chinese Sentence and Context**](https://github.com/h30306/Annotation_system) <br>
+
+* Sheng-Wei Huang, Wei-Yi Chung, Yu-Hsuan Wu, et.al <br>
+* In Proceedings of the 34rd Conference on Computational Linguistics and Speech Processing, 2022
+* [Paper]([https://link.springer.com/article/10.1007/s10489-022-03384-9](https://aclanthology.org/2022.rocling-1.19/))
+
     
     
     
