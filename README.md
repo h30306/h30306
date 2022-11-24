@@ -31,37 +31,37 @@
 
 ## :computer: Projects
         
-##[**Parking Spaces Prediction and Dynamic Programming of Taipei city**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
+## [**Parking Spaces Prediction and Dynamic Programming of Taipei city**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
     - Intro: Using time series model to estimate the remanning parking space to guide the people who is waiting for parking space
     - Language: `Python`, `HTML`, `CSS`, `JavaScript`
     - Keywords: `Machine Learning`, `Time Series Model`, `Flask`, `Dynamic Programming`
     - Tool: `LSTM`, `Flask`, `Pytorch`
 
-##[**Hybrid Movie Recommandation System by description and category**](https://github.com/h30306/Recommand_Movie_by_description_and_category)<br>
+## [**Hybrid Movie Recommandation System by description and category**](https://github.com/h30306/Recommand_Movie_by_description_and_category)<br>
     - Intro: Recommend favorite movies based on user input description and favorite movie category
     - Language: `Python`, `HTML`, `CSS`, `JavaScript`
     - Keywords: `Machine Learning`, `BERT`, `Flask`, `NLP`, `Word2Vec`, `TF-IDF`, `Recommandation System`
     - Tool: `Transformer`, `Flask`, `Pytorch`
         
-##[**Company Fraud Detection Website (Cooperate with KPMG)**](https://github.com/h30306/Fintech.github.io)<br>
+## [**Company Fraud Detection Website (Cooperate with KPMG)**](https://github.com/h30306/Fintech.github.io)<br>
     - Intro: Detection of fraud in four different aspect and visulize in website
     - Language: `Python`, `HTML`, `CSS`, `JavaScript`
     - Keywords: `BERT`, `Crawler`, `NLP`, `Node`, `Fraud`
     - Tool: `Selenium`, `Networkx`, `Plotly`
 
- ##[**Data Annotaion System for valence-arousal-irony**](https://github.com/h30306/Annotation_system)<br>
+ ## [**Data Annotaion System for valence-arousal-irony**](https://github.com/h30306/Annotation_system)<br>
     - Intro: PTT Data Annotation system written by php, javascript, html and deploy on Heroku
     - Language: `SQL`, `HTML`, `CSS`, `JavaScript`, `PHP`
     - Keywords: `Data Annotation`, `Login`, `DataBase`
     - Tool: `Crawler`, `MySQL`, `Apache`   
 
- ##[**Gogoro Feasibility Analysis**](https://github.com/h30306/Gogoro_analysis.github.io)<br>
+ ## [**Gogoro Feasibility Analysis**](https://github.com/h30306/Gogoro_analysis.github.io)<br>
     - Intro: Gogoro Feasibility Analysis in Taiwan
     - Language: `HTML`, `CSS`, `JavaScript`,  `CanvasJS`
     - Keywords: `Website`, `Analysis`, `Visulization`
     - Tool: `HTML`, `Webhook`   
 
- ##[**Airbnb New Uesr Booking Prediction**](https://github.com/h30306/Kaggle-Airbnb-New-User-Booking)<br>
+ ## [**Airbnb New Uesr Booking Prediction**](https://github.com/h30306/Kaggle-Airbnb-New-User-Booking)<br>
     - Intro: Kaggle competition. Our proposed using Hierarchical XGBoosting model to predict the target country of customer preference
     - Language: `Python`
     - Keywords: `Machine Learning`, `XGBoost`, `Statistic`
