@@ -42,6 +42,12 @@
    - Language: `Python`, `HTML`, `CSS`, `JavaScript`
    - Keywords: `Machine Learning`, `BERT`, `Flask`, `NLP`, `Word2Vec`, `TF-IDF`, `Recommandation System`
    - Tool: `Transformer`, `Flask`, `Pytorch`
+
+[**Airbnb New Uesr Booking Prediction**](https://github.com/h30306/Kaggle-Airbnb-New-User-Booking)<br>
+   - Intro: Kaggle competition. Our proposed using Hierarchical XGBoosting model to predict the target country of customer preference
+   - Language: `Python`
+   - Keywords: `Machine Learning`, `XGBoost`, `Statistic`
+   - Tool: `XGBoost` 
         
 [**Company Fraud Detection Website (Cooperate with KPMG)**](https://github.com/h30306/Fintech.github.io)<br>
    - Intro: Detection of fraud in four different aspect and visulize in website
@@ -59,13 +65,7 @@
    - Intro: Gogoro Feasibility Analysis in Taiwan
    - Language: `HTML`, `CSS`, `JavaScript`,  `CanvasJS`
    - Keywords: `Website`, `Analysis`, `Visulization`
-   - Tool: `HTML`, `Webhook`   
-
-[**Airbnb New Uesr Booking Prediction**](https://github.com/h30306/Kaggle-Airbnb-New-User-Booking)<br>
-   - Intro: Kaggle competition. Our proposed using Hierarchical XGBoosting model to predict the target country of customer preference
-   - Language: `Python`
-   - Keywords: `Machine Learning`, `XGBoost`, `Statistic`
-   - Tool: `XGBoost`   
+   - Tool: `HTML`, `Webhook`     
         
 ## :school: Experience
     
