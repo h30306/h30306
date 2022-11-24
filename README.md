@@ -71,12 +71,12 @@
 
 - **2020.9 ~ 2022.1 - Research Assistant in [NLP Lab](https://nlp.bigdata.scu.edu.tw/)(@DS.SCU)** <br>
         
-- **2019.9 ~ 2020.6 - Data Analysis Intern at Deloitte <br>
+- **2019.9 ~ 2020.6 - Data Analysis Intern at Deloitte** <br>
   - Completed the deployment of machine learning model on the Django platform for economic indicator trend prediction.
   - Researched the practical application of OCR in financial statements and achieved a digital recognition rate of 86%.
   - Maintained news and social web crawlers, and developed robotic process automation (RPA) programs to handle unstructured data.
 
-- **2019.7 ~ 2019.8 - Automatic Speech Recognition Intern at Delta.co** <br>
+- **2019.7 ~ 2019.8 - Automatic Speech Recognition Intern at Delta Electronics** <br>
   - Annotated noise span in recordings and modified the speech recognition models to detection noise.
   - Developed a noise detection deep learning model and deployed on the internal system with Flask. The model is stacked the CNN model with soft-attention mechanism and LSTM as prediction model. Achieved 89% accuracy rate in noise span.
         
