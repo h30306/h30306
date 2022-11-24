@@ -31,8 +31,8 @@
 
 ## :computer: Projects
     
--[**Parking Spaces Prediction and Dynamic Programming of Taipei city**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
-    - Intro: Using time series model to estimate the remanning parking space to guide the people who is waiting for parking space
+[**Parking Spaces Prediction and Dynamic Programming of Taipei city**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
+   - Intro: Using time series model to estimate the remanning parking space to guide the people who is waiting for parking space
     - Language: `Python`, `HTML`, `CSS`, `JavaScript`
     - Keywords: `Machine Learning`, `Time Series Model`, `Flask`, `Dynamic Programming`
     - Tool: `LSTM`, `Flask`, `Pytorch`
