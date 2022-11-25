@@ -20,7 +20,7 @@
 ### [**A Dynamic Embedding Method for Passenger Flow Estimation**](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) <br>
 
 * **Wei-Yi Chung**, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
-* In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)
+* _In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)_
 * [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
         
 ### [**Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
