@@ -35,6 +35,12 @@
 * _In Proceedings of the 34rd Conference on Computational Linguistics and Speech Processing, 2022_
 * [Paper](https://aclanthology.org/2022.rocling-1.19/)
 
+### [**Factor Detection Task of Cyberbullying Using the Deep Learning Model**]() <br>
+
+* Yu-Hsuan Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Chen-Chia Yu, and Jheng-Long Wu <br>
+* _2022 IEEE International Conference on Big Data Workshop_
+* [Paper]()
+ 
 ## :computer: Projects
     
 [**Parking Spaces Prediction and Dynamic Programming of Taipei city**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
