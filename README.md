@@ -8,7 +8,7 @@
     </a
 </p>
 <br>
----
+<hr>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=h30306&label=Profile%20Views&color=0&icon=1&pretty=false" />
 </a>
