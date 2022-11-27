@@ -7,14 +7,18 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=radical&card_width=250"/> 
     </a
 </p>
-[![](https://visitcount.itsvg.in/api?id=h30306&icon=0&color=11)](https://visitcount.itsvg.in)
 
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Heroku]([https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+        
 ## 🌐 Socials:
 
 <div> 
   <a href = "mailto:hworkl0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/howard-w-chung/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<!-- https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
+<!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white -->
         
 ## :bookmark_tabs: Publications
 
