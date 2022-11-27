@@ -82,6 +82,10 @@
 ## :school: Experience
 
 - **2020.9 ~ 2022.1 - Research Assistant in [NLP Lab](https://nlp.bigdata.scu.edu.tw/)(@DS.SCU)** <br>
+   - Invented a combination model of neural network and statistic method for co-reference resolution. Improved F1-score from 78.3 to 79.2.
+   - Built and trained a multi-topic GPT2 model, and improved the model performance by model tuning and spelling corrections handling.
+   - Developed a hierarchical attention network (HAN) model to learn the three different aspect of hope, trigger event and arousal from society community post. Improved the F1-score from 0.58 to 0.86 on the prediction of depression.
+   - Invented a dynamic MRT station embedding model for passenger flow prediction. Replaced the traditional station embedding model Node2Vec and improved MAE from 1.47 to 0.93, 36% increased.
         
 - **2019.9 ~ 2020.6 - Data Analysis Intern at Deloitte** <br>
   - Completed the deployment of machine learning model on the Django platform for economic indicator trend prediction.
