@@ -7,6 +7,7 @@
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=radical&card_width=250"/> 
     </a
 </p>
+[![](https://visitcount.itsvg.in/api?id=h30306&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 
