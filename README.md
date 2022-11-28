@@ -41,7 +41,7 @@
 
 ### [**A Dimensional Valence-Arousal-Irony Dataset for Chinese Sentence and Context**](https://github.com/h30306/Annotation_system) <br>
 
-* Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, et.al <br>
+* Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, Chen-Chia Yu, and Jheng-Long Wu <br>
 * _In Proceedings of the 34rd Conference on Computational Linguistics and Speech Processing, 2022_
 * [Paper](https://aclanthology.org/2022.rocling-1.19/)
 
