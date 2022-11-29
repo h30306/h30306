@@ -21,7 +21,7 @@
 ### [**A Dynamic Embedding Method for Passenger Flow Estimation**](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) <br>
 
 * **Wei-Yi Chung**, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
-* _In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)_
+* _[In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)](https://aclanthology.org/2022.rocling-1.19/)_
 * [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
         
 ### [**Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
@@ -96,7 +96,11 @@
 - **2019.7 ~ 2019.8 - Automatic Speech Recognition Intern at Delta Electronics** <br>
   - Annotated noise span in recordings and modified the speech recognition models to detection noise.
   - Developed a noise detection deep learning model and deployed on the internal system with Flask. The model is stacked the CNN model with soft-attention mechanism and LSTM as prediction model. Achieved 89% accuracy rate in noise span.
-        
+
+- **2018.3 ~ 2019.6 - Research Assistant in Information Fusion Lab** <br>
+  - Developed a micro-expression recognition model to identify readers’ investment styles, and combined recommendation systems to recommend suitable financial articles for readers. Achieved 91% F1-score.
+  - Deployed the financial recognition APP on Zenbo robot, combined with personalized dashboard to present financial information exclusive to users. This APP earned Honorable Mention in HNCB Fintechers competitions.
+
 - **2016.9 ~ 2020.7 - Bachelor student in SCU (@CS.NCCU)** <br>
         
 <!--
