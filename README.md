@@ -1,7 +1,5 @@
 | <a href="https://github.com/h30306"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=h30306&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/h30306)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<br>
-<hr>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=h30306&label=Profile%20Views&color=0&icon=1&pretty=false" />
 </a>
