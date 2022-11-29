@@ -1,13 +1,5 @@
 | <a href="https://github.com/h30306"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=h30306&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/h30306)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-<p align=center>
-    <a href="https://github.com/h30306">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=h30306&show_icons=true&theme=radical&include_all_commits=true&card_width=250" />
-    </a>
-    <a href="https://github.com/h30306">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=radical&card_width=250"/> 
-    </a
-</p>
 <br>
 <hr>
 <a href="https://visitcount.itsvg.in">
