@@ -39,7 +39,8 @@
 ### [**Factor Detection Task of Cyberbullying Using the Deep Learning Model**](https://github.com/h30306/Factor-Detection-Task-of-Cyberbullying-Using-the-Deep-Learning-Model) <br>
 
 * Yu-Hsuan Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Chen-Chia Yu, and Jheng-Long Wu <br>
-* _2022 IEEE International Conference on Big Data Workshop_
+* _2022 IEEE International Conference on Big Data_
+* [Paper](https://ieeexplore.ieee.org/document/10020779)
 
  
 ## :computer: Projects
