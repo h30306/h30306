@@ -42,7 +42,7 @@
 * _2022 IEEE International Conference on Big Data_
 * [Paper](https://ieeexplore.ieee.org/document/10020779)
 
-### [**A Chinese Dimensional Valence-Arousal-Irony Detection on Sentence-level and Context-level Using Deep Learning Model**] <br>
+### [**A Chinese Dimensional Valence-Arousal-Irony Detection on Sentence-level and Context-level Using Deep Learning Model**]() <br>
 
 * Jheng-Long Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, Chen-Chia Yu <br>
 * _Computational Linguistics and Chinese Language Processing, Vol. 27, No. 2, December 2022_
