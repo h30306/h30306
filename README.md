@@ -1,109 +1,90 @@
-| <a href="https://github.com/h30306"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=h30306&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/h30306)"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=h30306&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-        
+## Hi, I'm Howard 👋
+
+Senior Software Engineer at [ASUS AICS](https://aics.asus.com/home/) in Singapore. I build backend services for a healthcare B2B data platform: the data gateway, its shared data-contract schema, the multi-tenant architecture, and the AI coding-agent workflow my team ships with. Before that I did NLP and traffic-forecasting research during my master's, which led to six publications.
+
+I write about algorithms, backend systems, and my past research on my [blog](https://h30306.github.io/blog/).
+
+<a href="https://github.com/h30306"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=h30306&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Howard's GitHub stats" /></a>
+
 ## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pytorch](https://img.shields.io/badge/Pytorch-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-        
-## 🌐 Socials
 
-<div> 
-  <a href = "mailto:hworkl0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/howard-w-chung/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+**Backend**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Data**<br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Infrastructure**<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**AI & ML**<br>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+## 🌐 Links
+
+<div>
+  <a href="https://h30306.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/Blog-1F2937?style=for-the-badge&logo=hugo&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/howard-w-chung/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=ipNRv6gAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+  <a href="mailto:hwork0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<!-- https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
-<!-- https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white -->
-        
-## :bookmark_tabs: Publications
 
-### [**A Dynamic Embedding Method for Passenger Flow Estimation**](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) <br>
+## 💼 Experience
 
-* **Wei-Yi Chung**, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu <br>
-* _In 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI)_
-* [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070)
-        
-### [**Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction**](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) <br>
+**Senior Software Engineer · [ASUS AICS](https://aics.asus.com/home/)** · Jan 2026 – Present
+- Own the data gateway and shared data-contract schema for a healthcare B2B platform, deployed both on-prem and as a multi-tenant cloud service.
+- Led the multi-tenant architecture: tenant-scoped connection pools, Redis and WebSocket isolation, and per-tenant log streams, so onboarding a tenant is a config change instead of a redeploy.
+- Built a Claude Code-based agent on Kubernetes that picks up Jira tickets and implements them in parallel under git-worktree isolation; it is now the team's default workflow.
 
-* Jheng-Long Wu, **Wei-Yi Chung** <br>
-* _Applied Intelligence, 2022_
-* [Paper](https://link.springer.com/article/10.1007/s10489-022-03384-9)
+**Software Engineer · [ASUS AICS](https://aics.asus.com/home/)** · Dec 2022 – Dec 2025
+- Shipped semver-gated releases of the shared data-contract schema to external vendors, with backward-compatible migrations so consumers upgrade on their own schedule.
+- Cut API latency by replacing Starlette's `BaseHTTPMiddleware` with pure ASGI middleware and moving task handling onto a non-blocking queue.
+- Served both SQL Server and Oracle sites from one codebase with a query generator built over the versioned schema spec.
 
-### [**A Dimensional Valence-Arousal-Irony Dataset for Chinese Sentence and Context**](https://github.com/h30306/Annotation_system) <br>
+**Research Assistant · [NLP Lab, Soochow University](https://nlp.bigdata.scu.edu.tw/)** · Jan 2020 – Jan 2022
+- Built a dynamic MRT station embedding model to replace Node2Vec, lowering passenger-flow MAE from 1.47 to 0.93; published at IIAI-AAI 2021 and in *Knowledge-Based Systems*.
+- Developed a hierarchical attention network that raised F1 from 0.58 to 0.86 on depression-signal detection in community posts.
+- Designed entity-representation and density-estimation components for coreference resolution (master's thesis), improving F1 from 78.3 to 79.2.
+- Built and tuned a multi-topic GPT-2 model, including handling of spelling errors.
 
-* Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, Chen-Chia Yu, and Jheng-Long Wu <br>
-* _In Proceedings of the 34rd Conference on Computational Linguistics and Speech Processing, 2022_
-* [Paper](https://aclanthology.org/2022.rocling-1.19/)
+**Data Analysis Intern · [Deloitte](https://www.deloitte.com/)** · Sep 2019 – Jun 2020
+- Deployed an economic-indicator prediction model on Django and maintained the news and social-media crawlers and RPA jobs feeding it.
+- Built an OCR pipeline for financial statements that reached 86% digit-recognition accuracy.
 
-### [**Factor Detection Task of Cyberbullying Using the Deep Learning Model**](https://github.com/h30306/Factor-Detection-Task-of-Cyberbullying-Using-the-Deep-Learning-Model) <br>
+**Earlier**: automatic speech recognition intern at [Delta Electronics](https://www.deltaww.com/) (2019, noise-span detection with CNN + attention + LSTM) and research assistant at the Information Fusion Lab (2018–2019, micro-expression-based investor profiling; Honorable Mention at the HNCB Fintechers competition).
 
-* Yu-Hsuan Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Chen-Chia Yu, and Jheng-Long Wu <br>
-* _2022 IEEE International Conference on Big Data_
-* [Paper](https://ieeexplore.ieee.org/document/10020779)
+**Education**: M.S. in Data Science (2022, ranked 1st/18, Phi Tau Phi) and Bachelor of Big Data Management (2020), Soochow University.
 
-### [**A Chinese Dimensional Valence-Arousal-Irony Detection on Sentence-level and Context-level Using Deep Learning Model**]() <br>
+## 📑 Publications
 
-* Jheng-Long Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, Chen-Chia Yu <br>
-* _Computational Linguistics and Chinese Language Processing, Vol. 27, No. 2, December 2022_
-* [Paper](https://www.aclclp.org.tw/clclp/v27n2/v27n2a5.pdf)
- 
-## :computer: Projects
-    
-[**Parking Spaces Prediction and Dynamic Programming of Taipei city**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
-   - Intro: Using time series model to estimate the remanning parking space to guide the people who is waiting for parking space
-   - Language: `Python`, `HTML`, `CSS`, `JavaScript`
-   - Keywords: `Machine Learning`, `Time Series Model`, `Flask`, `Dynamic Programming`
-   - Tool: `LSTM`, `Flask`, `Pytorch`
+Each paper has a walkthrough of the model on my blog.
 
-[**Hybrid Movie Recommandation System by description and category**](https://github.com/h30306/Recommand_Movie_by_description_and_category)<br>
-   - Intro: Recommend favorite movies based on user input description and favorite movie category
-   - Language: `Python`, `HTML`, `CSS`, `JavaScript`
-   - Keywords: `Machine Learning`, `BERT`, `Flask`, `NLP`, `Word2Vec`, `TF-IDF`, `Recommandation System`
-   - Tool: `Transformer`, `Flask`, `Pytorch`
+| Year | Paper | Venue | Links |
+|---|---|---|---|
+| 2024 | Dynamic traffic network representation model for improving the prediction performance of passenger flow for mass rapid transit<br>*Jheng-Long Wu, **Wei-Yi Chung**, Yu-Hsuan Wu, Yen-Nan Ho* | Knowledge-Based Systems | [Paper](https://doi.org/10.1016/j.knosys.2024.112442) · [Blog](https://h30306.github.io/blog/paper/2024-kbs-dynamic-traffic-network-representation/) |
+| 2022 | Factor Detection Task of Cyberbullying Using the Deep Learning Model<br>*Yu-Hsuan Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Chen-Chia Yu, Jheng-Long Wu* | IEEE BigData 2022 Workshop | [Paper](https://doi.org/10.1109/BigData55660.2022.10020779) · [Slides](https://github.com/h30306/Factor-Detection-Task-of-Cyberbullying-Using-the-Deep-Learning-Model) · [Blog](https://h30306.github.io/blog/paper/2022-ieee-bigdata-cyberbullying-factor-detection/) |
+| 2022 | A Chinese Dimensional Valence-Arousal-Irony Detection on Sentence-level and Context-level Using Deep Learning Model<br>*Jheng-Long Wu, Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, Chen-Chia Yu* | IJCLCLP 27(2) | [Paper](https://aclanthology.org/2022.ijclclp-2.5/) · [Blog](https://h30306.github.io/blog/paper/2022-ijclclp-cdvai-irony-detection/) |
+| 2022 | A Dimensional Valence-Arousal-Irony Dataset for Chinese Sentence and Context<br>*Sheng-Wei Huang, **Wei-Yi Chung**, Yu-Hsuan Wu, Chen-Chia Yu, Jheng-Long Wu* | ROCLING 2022 | [Paper](https://aclanthology.org/2022.rocling-1.19/) · [Annotation tool](https://github.com/h30306/Annotation_system) · [Blog](https://h30306.github.io/blog/paper/2022-rocling-cdvai-irony-dataset/) |
+| 2022 | Sentiment-based masked language modeling for improving sentence-level valence–arousal prediction<br>*Jheng-Long Wu, **Wei-Yi Chung*** | Applied Intelligence | [Paper](https://doi.org/10.1007/s10489-022-03384-9) · [Code](https://github.com/h30306/Sentiment-Based-Masked-Language-Modeling-for-Improving-Sentence-Level-Valence-Arousal-Prediction) · [Blog](https://h30306.github.io/blog/paper/2022-applied-intelligence-dva-bert/) |
+| 2022 | Entity representation learning and density estimation for coreference resolution<br>***Wei-Yi Chung*** (master's thesis) | Soochow University | [Thesis](https://hdl.handle.net/11296/6hvn4c) · [Blog](https://h30306.github.io/blog/paper/2022-master-thesis-coreference-resolution/) |
+| 2021 | A Dynamic Embedding Method for Passenger Flow Estimation<br>***Wei-Yi Chung**, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu* | IIAI-AAI 2021 (Competitive Paper Award) | [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070) · [Code](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) · [Blog](https://h30306.github.io/blog/paper/2021-iiai-aai-dynamic-embedding-passenger-flow/) |
 
-[**Airbnb New Uesr Booking Prediction**](https://github.com/h30306/Kaggle-Airbnb-New-User-Booking)<br>
-   - Intro: Kaggle competition. Our proposed using Hierarchical XGBoosting model to predict the target country of customer preference
-   - Language: `Python`
-   - Keywords: `Machine Learning`, `XGBoost`, `Statistic`
-   - Tool: `XGBoost` 
-        
-[**Company Fraud Detection Website (Cooperate with KPMG)**](https://github.com/h30306/Fintech.github.io)<br>
-   - Intro: Detection of fraud in four different aspect and visulize in website
-   - Language: `Python`, `HTML`, `CSS`, `JavaScript`
-   - Keywords: `BERT`, `Crawler`, `NLP`, `Node`, `Fraud`
-   - Tool: `Selenium`, `Networkx`, `Plotly`
+## 🛠️ Projects
 
-[**Data Annotaion System for valence-arousal-irony**](https://github.com/h30306/Annotation_system)<br>
-   - Intro: PTT Data Annotation system written by php, javascript, html and deploy on Heroku
-   - Language: `SQL`, `HTML`, `CSS`, `JavaScript`, `PHP`
-   - Keywords: `Data Annotation`, `Login`, `DataBase`
-   - Tool: `Crawler`, `MySQL`, `Apache`   
+[**Parking Space Prediction and Dynamic Programming for Taipei City**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
+Forecasts remaining parking spaces with an LSTM time-series model and guides drivers to a free space. `Python` `PyTorch` `LSTM` `Flask`
+
+[**Hybrid Movie Recommendation System**](https://github.com/h30306/Recommand_Movie_by_description_and_category)<br>
+Recommends movies from a free-text description and favorite categories, combining BERT, Word2Vec, and TF-IDF. `Python` `PyTorch` `BERT` `Flask`
+
+[**Airbnb New User Booking Prediction**](https://github.com/h30306/Kaggle-Airbnb-New-User-Booking)<br>
+Kaggle competition: a hierarchical XGBoost model that predicts the country of a new user's first booking. `Python` `XGBoost`
+
+[**Company Fraud Detection Website (with KPMG)**](https://github.com/h30306/Fintech.github.io)<br>
+Detects fraud signals from four angles and visualizes them on a website. `Python` `BERT` `Selenium` `NetworkX` `Plotly`
+
+[**Annotation System for Valence-Arousal-Irony**](https://github.com/h30306/Annotation_system)<br>
+PHP + MySQL website used to annotate the PTT corpus behind the CDVAI papers. `PHP` `MySQL` `JavaScript`
 
 [**Gogoro Feasibility Analysis**](https://github.com/h30306/Gogoro_analysis.github.io)<br>
-   - Intro: Gogoro Feasibility Analysis in Taiwan
-   - Language: `HTML`, `CSS`, `JavaScript`,  `CanvasJS`
-   - Keywords: `Website`, `Analysis`, `Visulization`
-   - Tool: `HTML`, `Webhook`     
-        
-## :school: Experience
-- **2022.12 - Software Engineer at [ASUS AICS](https://aics.asus.com/home/)**<br>
-
-- **2020.9 ~ 2022.1 - Research Assistant in [NLP Lab](https://nlp.bigdata.scu.edu.tw/)(@DS.SCU)** <br>
-   - Invented a combination model of neural network and statistic method for co-reference resolution. Improved F1-score from 78.3 to 79.2.
-   - Built and trained a multi-topic GPT2 model, and improved the model performance by model tuning and spelling corrections handling.
-   - Developed a hierarchical attention network (HAN) model to learn the three different aspect of hope, trigger event and arousal from society community post. Improved the F1-score from 0.58 to 0.86 on the prediction of depression.
-   - Invented a dynamic MRT station embedding model for passenger flow prediction. Replaced the traditional station embedding model Node2Vec and improved MAE from 1.47 to 0.93, 36% increased.
-        
-- **2019.9 ~ 2020.6 - Data Analysis Intern at [Deloitte](https://www.deloitte.com/global/en.html)** <br>
-  - Completed the deployment of machine learning model on the Django platform for economic indicator trend prediction.
-  - Researched the practical application of OCR in financial statements and achieved a digital recognition rate of 86%.
-  - Maintained news and social web crawlers, and developed robotic process automation (RPA) programs to handle unstructured data.
-
-- **2019.7 ~ 2019.8 - Automatic Speech Recognition Intern at [Delta Electronics](https://www.deltaww.com/en-US/index)** <br>
-  - Annotated noise span in recordings and modified the speech recognition models to detection noise.
-  - Developed a noise detection deep learning model and deployed on the internal system with Flask. The model is stacked the CNN model with soft-attention mechanism and LSTM as prediction model. Achieved 89% accuracy rate in noise span.
-
-- **2018.3 ~ 2019.6 - Research Assistant in Information Fusion Lab** <br>
-  - Developed a micro-expression recognition model to identify readers’ investment styles, and combined recommendation systems to recommend suitable financial articles for readers. Achieved 91% F1-score.
-  - Deployed the financial recognition APP on Zenbo robot, combined with personalized dashboard to present financial information exclusive to users. This APP earned Honorable Mention in HNCB Fintechers competitions.
-
-- **2016.9 ~ 2020.7 - Bachelor student in SCU (@DS.SCU)** <br>
-   
+Market feasibility analysis of Gogoro in Taiwan, presented as an interactive website. `HTML` `CanvasJS`
