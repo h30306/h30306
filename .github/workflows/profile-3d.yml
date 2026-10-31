@@ -1,5 +1,7 @@
 name: 3D contribution graph
 
+# Runs daily, and on any push that edits a workflow file.
+
 on:
   schedule:
     - cron: "0 18 * * *"
