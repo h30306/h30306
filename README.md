@@ -1,35 +1,58 @@
-## Hi, I'm Howard 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:1f6feb&height=220&section=header&text=Howard%20W.%20Chung&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20ASUS%20AICS%20%C2%B7%20Singapore&descSize=18&descAlignY=56&animation=fadeIn" alt="Howard W. Chung" width="100%" />
+</p>
 
-Senior Software Engineer at [ASUS AICS](https://aics.asus.com/home/) in Singapore. I build backend services for a healthcare B2B data platform: the data gateway, its shared data-contract schema, the multi-tenant architecture, and the AI coding-agent workflow my team ships with. Before that I did NLP and traffic-forecasting research during my master's, which led to six publications.
+<p align="center">
+  <a href="https://h30306.github.io/blog/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+for+a+healthcare+B2B+data+platform;Data+gateways+%2B+shared+data+contracts;Multi-tenant+by+config%2C+not+by+redeploy;Claude+Code+agents+on+Kubernetes;6+papers+in+NLP+%26+traffic+forecasting" alt="Typing intro" />
+  </a>
+</p>
 
-I write about algorithms, backend systems, and my past research on my [blog](https://h30306.github.io/blog/).
+<p align="center">
+  <a href="https://h30306.github.io/blog/"><img src="https://img.shields.io/badge/Blog-1F2937?style=flat-square&logo=hugo&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/howard-w-chung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=ipNRv6gAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:hwork0511@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<a href="https://github.com/h30306"><img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=h30306&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Howard's GitHub stats" /></a>
+### 👋 About me
 
-## 💻 Tech Stack
+- 🏥 I build backend services for a **healthcare B2B data platform** at [ASUS AICS](https://aics.asus.com/home/): the data gateway, its shared data-contract schema, and the multi-tenant architecture.
+- 🤖 I run a **Claude Code agent on Kubernetes** that picks up Jira tickets and ships them in parallel; it's now my team's default workflow.
+- 🎓 Before that: NLP and traffic-forecasting research during my master's, **6 publications** (each walked through on my blog).
+- ✍️ I write about algorithms, backend systems, and that research on [my blog](https://h30306.github.io/blog/).
 
-**Backend**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🧰 Tech stack
 
-**Data**<br>
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,go,fastapi,django,postgres,redis&theme=dark" alt="Python, Go, FastAPI, Django, Postgres, Redis" /><br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp,githubactions&theme=dark" alt="Docker, Kubernetes, Azure, AWS, GCP, GitHub Actions" /><br />
+  <img src="https://skillicons.dev/icons?i=pytorch,linux,git&theme=dark" alt="PyTorch, Linux, Git" />
+</p>
 
-**Infrastructure**<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+Also: SQL Server, Oracle, SQLAlchemy, Hugging Face, Claude Code.
 
-**AI & ML**<br>
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### 📈 Contributions
 
-## 🌐 Links
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</picture>
 
-<div>
-  <a href="https://h30306.github.io/blog/" target="_blank"><img src="https://img.shields.io/badge/Blog-1F2937?style=for-the-badge&logo=hugo&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/howard-w-chung/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://scholar.google.com/citations?user=ipNRv6gAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
-  <a href="mailto:hwork0511@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+### ✍️ Latest from the blog
 
-## 💼 Experience
+<!-- BLOG-POST-LIST:START -->
+- [Array Scanning](https://h30306.github.io/blog/algorithm/array/)
+- [Bit Manipulation](https://h30306.github.io/blog/algorithm/bit-manipulation/)
+- [Bucket Sort and the Pigeonhole Principle](https://h30306.github.io/blog/algorithm/bucket-sort/)
+- [Hash Table](https://h30306.github.io/blog/algorithm/hash-table/)
+- [Linked List](https://h30306.github.io/blog/algorithm/linked-list/)
+<!-- BLOG-POST-LIST:END -->
+
+<details>
+<summary><b>💼 Experience</b></summary>
+<br />
 
 **Senior Software Engineer · [ASUS AICS](https://aics.asus.com/home/)** · Jan 2026 – Present
 - Own the data gateway and shared data-contract schema for a healthcare B2B platform, deployed both on-prem and as a multi-tenant cloud service.
@@ -55,7 +78,11 @@ I write about algorithms, backend systems, and my past research on my [blog](htt
 
 **Education**: M.S. in Data Science (2022, ranked 1st/18, Phi Tau Phi) and Bachelor of Big Data Management (2020), Soochow University.
 
-## 📑 Publications
+</details>
+
+<details>
+<summary><b>📑 Publications (7)</b></summary>
+<br />
 
 Each paper has a walkthrough of the model on my blog.
 
@@ -69,7 +96,11 @@ Each paper has a walkthrough of the model on my blog.
 | 2022 | Entity representation learning and density estimation for coreference resolution<br>***Wei-Yi Chung*** (master's thesis) | Soochow University | [Thesis](https://hdl.handle.net/11296/6hvn4c) · [Blog](https://h30306.github.io/blog/paper/2022-master-thesis-coreference-resolution/) |
 | 2021 | A Dynamic Embedding Method for Passenger Flow Estimation<br>***Wei-Yi Chung**, Yen-Nan Ho, Yu-Hsuan Wu, Jheng-Long Wu* | IIAI-AAI 2021 (Competitive Paper Award) | [Paper](https://doi.org/10.1109/IIAI-AAI53430.2021.00070) · [Code](https://github.com/h30306/A-Dynamic-Embedding-Method-for-Passenger-Flow-Estimation) · [Blog](https://h30306.github.io/blog/paper/2021-iiai-aai-dynamic-embedding-passenger-flow/) |
 
-## 🛠️ Projects
+</details>
+
+<details>
+<summary><b>🛠️ Side projects</b></summary>
+<br />
 
 [**Parking Space Prediction and Dynamic Programming for Taipei City**](https://github.com/h30306/Parking-Spaces-Prediction-and-Dynamic-Programming-of-Taipei-city)<br>
 Forecasts remaining parking spaces with an LSTM time-series model and guides drivers to a free space. `Python` `PyTorch` `LSTM` `Flask`
@@ -88,3 +119,7 @@ PHP + MySQL website used to annotate the PTT corpus behind the CDVAI papers. `PH
 
 [**Gogoro Feasibility Analysis**](https://github.com/h30306/Gogoro_analysis.github.io)<br>
 Market feasibility analysis of Gogoro in Taiwan, presented as an interactive website. `HTML` `CanvasJS`
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:2c5364,100:0f2027&height=100&section=footer" alt="" width="100%" />
