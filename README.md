@@ -43,11 +43,11 @@ Also: SQL Server, Oracle, SQLAlchemy, Hugging Face, Claude Code.
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Array Scanning](https://h30306.github.io/blog/algorithm/array/)
-- [Bit Manipulation](https://h30306.github.io/blog/algorithm/bit-manipulation/)
-- [Bucket Sort and the Pigeonhole Principle](https://h30306.github.io/blog/algorithm/bucket-sort/)
-- [Hash Table](https://h30306.github.io/blog/algorithm/hash-table/)
-- [Linked List](https://h30306.github.io/blog/algorithm/linked-list/)
+- [LeetCode 1011: Capacity To Ship Packages Within D Days](https://h30306.github.io/blog/leetcode/leetcode-1011/)
+- [LeetCode 32: Longest Valid Parentheses](https://h30306.github.io/blog/leetcode/leetcode-32/)
+- [LeetCode 452: Minimum Number of Arrows to Burst Balloons](https://h30306.github.io/blog/leetcode/leetcode-452/)
+- [LeetCode 763: Partition Labels](https://h30306.github.io/blog/leetcode/leetcode-763/)
+- [LeetCode 4097: Minimum Value of Merged Integers](https://h30306.github.io/blog/leetcode/leetcode-4097/)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
